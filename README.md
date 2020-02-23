@@ -1,5 +1,7 @@
 Reference machine learning and optimization models for enterprise operations (marketing, pricing, and supply chain).
 
+![Price Optimization Using RL Animation](https://github.com/ikatsov/algorithmic-marketing-examples/blob/master/resources/hilo-pricing-dqn-training-animation.gif)
+
 ### List of Models 
 
 * Promotions and Advertisements
