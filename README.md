@@ -1,6 +1,8 @@
-A collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain, etc.
+### About
+A collection of reference machine learning and optimization models for enterprise operations: marketing, pricing, supply chain.
 
-*Illustrative example: Strategic price optimization using reinforcement learning*
+### Illustrative Example 
+*Strategic price optimization using reinforcement learning*
 ![Price Optimization Using RL Animation](https://github.com/ikatsov/algorithmic-marketing-examples/blob/master/resources/hilo-pricing-dqn-training-animation.gif)
 
 ### List of Models 
