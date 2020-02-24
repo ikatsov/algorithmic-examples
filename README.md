@@ -26,4 +26,7 @@ A collection of reference machine learning and optimization models for enterpris
 * Supply Chain
   * Multi-echelon Inventory Optimization using Reinforcement Learning (DDPG, TD3)
 
-The repository includes models from Introduction to Algorithmic Marketing book (https://algorithmicweb.wordpress.com/), as well as more advanced models.
+### Approach
+* The most basic models come from Introduction to Algorithmic Marketing book. Book's website - https://algorithmicweb.wordpress.com/
+* More advanced models use deep learning techniques to analyze event sequences (e.g. clickstream) and reinforcement learning for optimization (e.g. safety stock management policy)
+* Almost all models are based on industrial reports and real-life case studies
