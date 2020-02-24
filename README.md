@@ -18,6 +18,7 @@ A collection of reference machine learning and optimization models for enterpris
    * Nearest Neighbor User-based Collaborative Filtering
    * Nearest Neighbor Item-based Collaborative Filtering
    * Item2Vec Model using NLP Methods (word2vec)
+   * Customer2Vec Model using NLP Methods (doc2vec)
 * Pricing and Assortment
   * Markdown Price Optimization
   * Dynamic Pricing using Thompson Sampling
